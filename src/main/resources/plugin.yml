@@ -1,0 +1,4 @@
+name: splif
+version: '${project.version}'
+main: org.example.splif
+api-version: '1.16'
